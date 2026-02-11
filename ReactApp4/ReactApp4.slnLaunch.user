@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ReactApp4.Server\\ReactApp4.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "reactapp4.client\\reactapp4.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Chrome)"
+      }
+    ]
+  }
+]
