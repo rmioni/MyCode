@@ -1,0 +1,6 @@
+@FabTrace.Gateway_HostAddress = http://localhost:5176
+
+GET {{FabTrace.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

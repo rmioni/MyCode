@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARmN9Wsv1H8=",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Simulator\\FabTrace.Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roi\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.3\\microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512",
+    "C:\\Users\\roi\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\roi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+    "C:\\Users\\roi\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

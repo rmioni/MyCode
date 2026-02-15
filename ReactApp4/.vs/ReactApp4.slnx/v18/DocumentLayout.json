@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\",
+  "WorkspaceRootPath": "C:\\GitHub\\MyCode\\ReactApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B72CA82-E5AD-5445-B45F-F36D71A537B6}|ReactApp4.Server\\ReactApp4.Server.csproj|c:\\users\\roey-mioni\\source\\repos\\reactapp4\\reactapp4.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B72CA82-E5AD-5445-B45F-F36D71A537B6}|ReactApp4.Server\\ReactApp4.Server.csproj|solutionrelative:reactapp4.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|c:\\users\\roey-mioni\\source\\repos\\reactapp4\\reactapp4.client\\src\\weather.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|solutionrelative:reactapp4.client\\src\\weather.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|c:\\users\\roey-mioni\\source\\repos\\reactapp4\\reactapp4.client\\src\\counter.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|c:\\github\\mycode\\reactapp4\\reactapp4.client\\src\\counter.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|solutionrelative:reactapp4.client\\src\\counter.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|c:\\users\\roey-mioni\\source\\repos\\reactapp4\\reactapp4.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|c:\\github\\mycode\\reactapp4\\reactapp4.client\\src\\weather.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|solutionrelative:reactapp4.client\\src\\weather.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B72CA82-E5AD-5445-B45F-F36D71A537B6}|ReactApp4.Server\\ReactApp4.Server.csproj|c:\\github\\mycode\\reactapp4\\reactapp4.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B72CA82-E5AD-5445-B45F-F36D71A537B6}|ReactApp4.Server\\ReactApp4.Server.csproj|solutionrelative:reactapp4.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|c:\\github\\mycode\\reactapp4\\reactapp4.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{8823B16E-4F4E-485C-D080-66BF7A1AC0AF}|reactapp4.client\\reactapp4.client.esproj|solutionrelative:reactapp4.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
@@ -26,132 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\Program.cs",
               "RelativeDocumentMoniker": "ReactApp4.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\Program.cs",
+              "ToolTip": "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\Program.cs",
               "RelativeToolTip": "ReactApp4.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T14:42:17.196Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "main.tsx",
-              "DocumentMoniker": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\reactapp4.client\\src\\main.tsx",
+              "DocumentMoniker": "C:\\GitHub\\MyCode\\ReactApp4\\reactapp4.client\\src\\main.tsx",
               "RelativeDocumentMoniker": "reactapp4.client\\src\\main.tsx",
-              "ToolTip": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\reactapp4.client\\src\\main.tsx",
+              "ToolTip": "C:\\GitHub\\MyCode\\ReactApp4\\reactapp4.client\\src\\main.tsx",
               "RelativeToolTip": "reactapp4.client\\src\\main.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-10T14:45:58.265Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Counter.tsx",
-              "DocumentMoniker": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\reactapp4.client\\src\\Counter.tsx",
+              "DocumentMoniker": "C:\\GitHub\\MyCode\\ReactApp4\\reactapp4.client\\src\\Counter.tsx",
               "RelativeDocumentMoniker": "reactapp4.client\\src\\Counter.tsx",
-              "ToolTip": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\reactapp4.client\\src\\Counter.tsx",
+              "ToolTip": "C:\\GitHub\\MyCode\\ReactApp4\\reactapp4.client\\src\\Counter.tsx",
               "RelativeToolTip": "reactapp4.client\\src\\Counter.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-10T14:54:14.149Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Weather.tsx",
-              "DocumentMoniker": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\reactapp4.client\\src\\Weather.tsx",
+              "DocumentMoniker": "C:\\GitHub\\MyCode\\ReactApp4\\reactapp4.client\\src\\Weather.tsx",
               "RelativeDocumentMoniker": "reactapp4.client\\src\\Weather.tsx",
-              "ToolTip": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\reactapp4.client\\src\\Weather.tsx",
+              "ToolTip": "C:\\GitHub\\MyCode\\ReactApp4\\reactapp4.client\\src\\Weather.tsx",
               "RelativeToolTip": "reactapp4.client\\src\\Weather.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-10T14:54:23.693Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:5:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

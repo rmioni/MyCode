@@ -1,1 +1,2 @@
 C:\Users\roey-mioni\source\repos\ReactApp4\reactapp4.client\obj\Debug\reactapp4.client.esproj.CoreCompileInputs.cache
+C:\GitHub\MyCode\ReactApp4\reactapp4.client\obj\Debug\reactapp4.client.esproj.CoreCompileInputs.cache

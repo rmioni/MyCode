@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="FabTrace.AppHost/FabTrace.AppHost.csproj" />
+  <Project Path="FabTrace.Gateway/FabTrace.Gateway.csproj" />
+  <Project Path="FabTrace.Persistence/FabTrace.Persistence.csproj" />
+  <Project Path="FabTrace.ServiceDefaults/FabTrace.ServiceDefaults.csproj" />
+  <Project Path="FabTrace.Shared/FabTrace.Shared.csproj" />
+  <Project Path="FabTrace.Simulator/FabTrace.Simulator.csproj" />
+</Solution>

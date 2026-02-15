@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj": {}
+    "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj": {
+    "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj",
+        "projectUniqueName": "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj",
         "projectName": "ReactApp4.Server",
-        "projectPath": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj",
-        "packagesPath": "C:\\Users\\roey-mioni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roey-mioni\\source\\repos\\ReactApp4\\ReactApp4.Server\\obj\\",
+        "projectPath": "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\ReactApp4.Server.csproj",
+        "packagesPath": "C:\\Users\\roi\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\MyCode\\ReactApp4\\ReactApp4.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\roey-mioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
