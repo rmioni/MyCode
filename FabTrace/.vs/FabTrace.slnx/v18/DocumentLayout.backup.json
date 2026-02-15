@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\GitHub\\MyCode\\FabTrace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5224651-25EB-48E1-6E6A-7577A63E651F}|FabTrace.Gateway\\FabTrace.Gateway.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5224651-25EB-48E1-6E6A-7577A63E651F}|FabTrace.Gateway\\FabTrace.Gateway.csproj|solutionrelative:fabtrace.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|solutionrelative:fabtrace.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.persistence\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|solutionrelative:fabtrace.persistence\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|solutionrelative:fabtrace.persistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\models\\wafertelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\models\\wafertelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\waferjsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\waferjsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71E2B4B-52CC-4AC7-9C44-4E8B82F2999B}|FabTrace.AppHost\\FabTrace.AppHost.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71E2B4B-52CC-4AC7-9C44-4E8B82F2999B}|FabTrace.AppHost\\FabTrace.AppHost.csproj|solutionrelative:fabtrace.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71E2B4B-52CC-4AC7-9C44-4E8B82F2999B}|FabTrace.AppHost\\FabTrace.AppHost.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.apphost\\fabtrace.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E71E2B4B-52CC-4AC7-9C44-4E8B82F2999B}|FabTrace.AppHost\\FabTrace.AppHost.csproj|solutionrelative:fabtrace.apphost\\fabtrace.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\fabtrace.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\fabtrace.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\fabtrace.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A99450F4-3025-445E-8816-2AFFE0FA1624}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\fabtrace.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2EAC5D0-30CC-4888-870E-932282872530}|FabTrace.Simulator\\FabTrace.Simulator.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2EAC5D0-30CC-4888-870E-932282872530}|FabTrace.Simulator\\FabTrace.Simulator.csproj|solutionrelative:fabtrace.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E71E2B4B-52CC-4AC7-9C44-4E8B82F2999B}|FabTrace.AppHost\\FabTrace.AppHost.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.apphost\\fabtrace.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E71E2B4B-52CC-4AC7-9C44-4E8B82F2999B}|FabTrace.AppHost\\FabTrace.AppHost.csproj|solutionrelative:fabtrace.apphost\\fabtrace.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F5224651-25EB-48E1-6E6A-7577A63E651F}|FabTrace.Gateway\\FabTrace.Gateway.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5224651-25EB-48E1-6E6A-7577A63E651F}|FabTrace.Gateway\\FabTrace.Gateway.csproj|solutionrelative:fabtrace.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.persistence\\fabtrace.persistence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{30DC4673-9E4B-BA99-9FF2-2F33A2ACE0E5}|FabTrace.Persistence\\FabTrace.Persistence.csproj|solutionrelative:fabtrace.persistence\\fabtrace.persistence.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658310C8-5159-2F10-853C-D6854EEE56C1}|FabTrace.AppHost\\FabTrace.AppHost.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658310C8-5159-2F10-853C-D6854EEE56C1}|FabTrace.AppHost\\FabTrace.AppHost.csproj|solutionrelative:fabtrace.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658310C8-5159-2F10-853C-D6854EEE56C1}|FabTrace.AppHost\\FabTrace.AppHost.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.apphost\\fabtrace.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{658310C8-5159-2F10-853C-D6854EEE56C1}|FabTrace.AppHost\\FabTrace.AppHost.csproj|solutionrelative:fabtrace.apphost\\fabtrace.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\fabtrace.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\fabtrace.shared.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\waferjsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\waferjsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\fabtrace.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\fabtrace.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511E668F-CB29-B7B8-E3D1-36DF108050EC}|FabTrace.Simulator\\FabTrace.Simulator.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511E668F-CB29-B7B8-E3D1-36DF108050EC}|FabTrace.Simulator\\FabTrace.Simulator.csproj|solutionrelative:fabtrace.simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658310C8-5159-2F10-853C-D6854EEE56C1}|FabTrace.AppHost\\FabTrace.AppHost.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.apphost\\fabtrace.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{658310C8-5159-2F10-853C-D6854EEE56C1}|FabTrace.AppHost\\FabTrace.AppHost.csproj|solutionrelative:fabtrace.apphost\\fabtrace.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|c:\\github\\mycode\\fabtrace\\fabtrace.shared\\models\\wafertelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0813C4-19D6-933A-FFAA-85E349C70AD8}|FabTrace.Shared\\FabTrace.Shared.csproj|solutionrelative:fabtrace.shared\\models\\wafertelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +58,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -68,27 +76,27 @@
               "RelativeDocumentMoniker": "FabTrace.Persistence\\Worker.cs",
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Persistence\\Worker.cs",
               "RelativeToolTip": "FabTrace.Persistence\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T00:17:51.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Persistence\\Program.cs",
               "RelativeDocumentMoniker": "FabTrace.Persistence\\Program.cs",
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Persistence\\Program.cs",
               "RelativeToolTip": "FabTrace.Persistence\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T00:17:49.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Gateway\\Program.cs",
               "RelativeDocumentMoniker": "FabTrace.Gateway\\Program.cs",
@@ -101,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AppHost.cs",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.AppHost\\AppHost.cs",
               "RelativeDocumentMoniker": "FabTrace.AppHost\\AppHost.cs",
@@ -109,37 +117,34 @@
               "RelativeToolTip": "FabTrace.AppHost\\AppHost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:09:47.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:09:47.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FabTrace.AppHost",
+              "DocumentIndex": 5,
+              "Title": "FabTrace.AppHost.csproj",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.AppHost\\FabTrace.AppHost.csproj",
               "RelativeDocumentMoniker": "FabTrace.AppHost\\FabTrace.AppHost.csproj",
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.AppHost\\FabTrace.AppHost.csproj",
               "RelativeToolTip": "FabTrace.AppHost\\FabTrace.AppHost.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-15T00:09:43.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:09:43.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "FabTrace.Shared",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Shared\\FabTrace.Shared.csproj",
               "RelativeDocumentMoniker": "FabTrace.Shared\\FabTrace.Shared.csproj",
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Shared\\FabTrace.Shared.csproj",
               "RelativeToolTip": "FabTrace.Shared\\FabTrace.Shared.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-15T00:02:28.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:02:28.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "WaferJsonContext.cs",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Shared\\WaferJsonContext.cs",
               "RelativeDocumentMoniker": "FabTrace.Shared\\WaferJsonContext.cs",
@@ -147,21 +152,19 @@
               "RelativeToolTip": "FabTrace.Shared\\WaferJsonContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:01:53.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:01:53.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FabTrace.Shared",
+              "DocumentIndex": 8,
+              "Title": "FabTrace.Shared.csproj",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Shared\\FabTrace.Shared.csproj",
               "RelativeDocumentMoniker": "FabTrace.Shared\\FabTrace.Shared.csproj",
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Shared\\FabTrace.Shared.csproj",
               "RelativeToolTip": "FabTrace.Shared\\FabTrace.Shared.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-15T00:00:48.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:00:48.187Z"
             },
             {
               "$type": "Document",
@@ -173,8 +176,7 @@
               "RelativeToolTip": "FabTrace.Simulator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:38:31.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T23:38:31.534Z"
             },
             {
               "$type": "Document",
@@ -185,24 +187,22 @@
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.AppHost\\FabTrace.AppHost.csproj",
               "RelativeToolTip": "FabTrace.AppHost\\FabTrace.AppHost.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T23:31:53.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T23:31:53.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "FabTrace.Persistence",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Persistence\\FabTrace.Persistence.csproj",
               "RelativeDocumentMoniker": "FabTrace.Persistence\\FabTrace.Persistence.csproj",
               "ToolTip": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Persistence\\FabTrace.Persistence.csproj",
               "RelativeToolTip": "FabTrace.Persistence\\FabTrace.Persistence.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T23:30:16.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T23:30:16.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "WaferTelemetry.cs",
               "DocumentMoniker": "C:\\GitHub\\MyCode\\FabTrace\\FabTrace.Shared\\Models\\WaferTelemetry.cs",
               "RelativeDocumentMoniker": "FabTrace.Shared\\Models\\WaferTelemetry.cs",
@@ -210,16 +210,7 @@
               "RelativeToolTip": "FabTrace.Shared\\Models\\WaferTelemetry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:23:48.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-02-14T23:23:48.177Z"
             }
           ]
         }
